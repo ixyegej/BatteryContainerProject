@@ -1,0 +1,4 @@
+LJ12A3-4-Z/BX Inductive Probe by wintermute29 on Thingiverse: https://www.thingiverse.com/thing:2328160
+
+Summary:
+Yet another model of an inductive probe, but this one has dimensions.It is the LJ12A3-4-Z/BX 4mm NO NPN probeIt runs off a supply voltage of 6V to 36V DC but works best at 12VThe output of this model of probe CANNOT and MUST NOT be connected directly to the input pins of your Arduino/RAMPS board.Overall Length: 56.4mm not including cableDiameter allowing for threads: 12mmThreaded portion:42.5mmCable: 1m lengthConnections:3Brown= +ve supplyBlue=GNDBlack=Sense Output (must be connected to printer interface using either a voltage divider resistor network, a diode, or an isolating relay.)
